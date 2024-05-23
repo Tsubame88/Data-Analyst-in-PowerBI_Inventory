@@ -8,7 +8,9 @@ Inventory Analysis Metrics
      Avg inventory value =  ( Starting value + Ending Value ) / 2
 + Inventory turnover
   
- is an efficiency ratio that shows how often a company uses its supply of goods during a given period
+is the measurement of the number of times a business’s inventory is sold throughout a month, a quarter, or (most commonly) a year of trading. In other words, inventory turnover measures how fast a company sells. 
+
+In most typical cases, slow turnover ratios indicate weak sales (and possible excess inventory), while faster turnover ratios indicate strong sales (and a possible inventory shortage). 
  
      Inventory turnover  =  COGS / Avg inventory value
 + ABC analysis
