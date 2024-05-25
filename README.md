@@ -52,9 +52,15 @@ The Management team said they wanted to know
 Focus on inventory management 
 + smart purchasing
   
-   " Woodland Charlotte Bag " has the lowest COGS versus Revenue ratio. That means this item ganaerates more profit since it has low cost in comparision to its selling price.
+   + " Woodland Charlotte Bag " has the lowest COGS versus Revenue ratio. That means this item ganaerates more profit since it has low cost in comparision to its selling price.
   This insight can help us to increase the inventory stock on " Woodland Charlotte Bag " to increase its profit.
+
+   + " jewelry " category has a lowest average inventory turnover and the lowest revenue in 2021. This category should be reconsidered. 
 + control policies that involve the structure of a company framework to achieve its goals
+
+  Warmehands policies include giving the second chance to the items with selling potential. So we can pay attention on B class and see that 
+  " Victorian metal poscard spring " has the hight inventory turnover for having such a small revenue ans small amount of order quantities as 2764 pcs. THis item could had better success with more inventory 
+
 + improve stock management 
 
 ## 6. Building your dashboard
