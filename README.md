@@ -53,3 +53,8 @@ Focus on inventory management
 + smart purchasing
 + control policies that involve the structure of a company framework to achieve its goals
 + improve stock management 
+
+## 6. Building your dashboard
+ it is essential to 
+ + contain the main discoveries, be concise, use well-defined labels, provide reference values, and make things interactive
+ + It can always create multiple pages, but it is important not to be repetitive, making sure each tells a different story
