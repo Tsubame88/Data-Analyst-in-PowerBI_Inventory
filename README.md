@@ -31,7 +31,12 @@ In most typical cases, slow turnover ratios indicate weak sales (and possible ex
 ## Preliminary 
   Its time to put our results together to find the good insights that can be interesting for our futur report 
 
-  Woodland Charlotte Bag is in A Class and has the most increase in sale from 2020 to 2021 in comparision to others. That means it was ordered more than others in 2021.
+  + " Grow a fly trap or sunflower in tin "   is lead in sale
+  + " Doughnut lip gloss "  was sold faster
+  + " Set od 6 soldiers skittles " has the most increase in percent of total revenue from 2020 to 2021
+  + All of 3 items are in class A   
+
+ " Doughnut lip gloss " was sold fastest in 2021 and has the most increase in sale from 2020 to 2021 in comparision to others. That means it was ordered more than others in 2021.
 
 ## Objective
 
@@ -43,4 +48,8 @@ The Management team said they wanted to know
 
  So we will have to make sure these business requests are considered.
 
-
+## Telling story 
+Focus on inventory management 
++ smart purchasing
++ control policies that involve the structure of a company framework to achieve its goals
++ improve stock management 
