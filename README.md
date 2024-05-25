@@ -51,6 +51,8 @@ The Management team said they wanted to know
 ## Telling story 
 Focus on inventory management 
 + smart purchasing
+   " Woodland Charlotte Bag " has the lowest COGS versus Revenue ratio. That means this item ganaerates more profit since it has low cost in comparision to its selling price.
+  This insight can help us to increase the inventory stock on " Woodland Charlotte Bag " to increase its profit.
 + control policies that involve the structure of a company framework to achieve its goals
 + improve stock management 
 
