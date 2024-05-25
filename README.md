@@ -59,7 +59,7 @@ Focus on inventory management
 + control policies that involve the structure of a company framework to achieve its goals
 
   Warmehands policies include giving the second chance to the items with selling potential. So we can pay attention on B class and see that 
-  " Victorian metal poscard spring " has the hight inventory turnover for having such a small revenue ans small amount of order quantities as 2764 pcs. THis item could had better success with more inventory 
+  " Victorian metal poscard spring " has the high inventory turnover for having such a small revenue and small amount of order quantities as 2764 pcs. THis item could had better success with more inventory 
 
 + improve stock management 
 
