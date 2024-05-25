@@ -1,6 +1,6 @@
 # Data-Analyst-in-PowerBI_Inventory
 
-Inventory Analysis Metrics 
+## Inventory Analysis Metrics 
 + Average inventory value
   
  is often used to know the value of an item during a specific period that accounts for seasonal fluctuations
@@ -25,4 +25,6 @@ In most typical cases, slow turnover ratios indicate weak sales (and possible ex
 
     In this study case, Almost 70% of total revenue is located in these 18 items out of total of 104 items. So we could pay attention to these items.
 
+## Preliminary 
+  Its time to put our results together to find the good insights that can be interesting for our futur report 
 1 Handanhal and Misra (2014). ABC Analysis for Inventory Management: Bridging the Gap between Research and Classroom.
