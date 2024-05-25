@@ -61,8 +61,13 @@ Focus on inventory management
   Warmehands policies include giving the second chance to the items with selling potential. So we can pay attention on B class and see that 
   " Victorian metal poscard spring " has the high inventory turnover for having such a small revenue and small amount of order quantities as 2764 pcs. THis item could had better success with more inventory 
 
-+ improve stock management 
++ improve stock management
 
+  The class A items have average inventory turnover  as 1.59
+  The class B items have average inventory turnover as  1.38
+  these 2 class have quite similar inventory turnover which means they were sold almost equally fast but class A has a large amount of stock that results in big revenue.
+  The company can consider to increase the amount of stock on the selling potential class B
+  
 ## 6. Building your dashboard
  it is essential to 
  + contain the main discoveries, be concise, use well-defined labels, provide reference values, and make things interactive
