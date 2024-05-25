@@ -29,4 +29,16 @@ In most typical cases, slow turnover ratios indicate weak sales (and possible ex
   Its time to put our results together to find the good insights that can be interesting for our futur report 
 
   Woodland Charlotte Bag is in A Class and has the most increase in sale from 2020 to 2021 in comparision to others. That means it was ordered more than others in 2021.
+
+## Objective
+
+Before creating any dashboard-like page, we need focus on what WarmeHands needs to make decisions. 
+
+The Management team said they wanted to know 
++ what items would be best for renewing or increasing inventory
++ having an idea of the influence of the categories and countries
+
+ So we will have to make sure these business requests are considered.
+
+
 1 Handanhal and Misra (2014). ABC Analysis for Inventory Management: Bridging the Gap between Research and Classroom.
