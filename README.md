@@ -23,4 +23,6 @@ In most typical cases, slow turnover ratios indicate weak sales (and possible ex
     
     A items will cover up to seventy percent of total revenue, B items will cover the following twenty percent, and C items will represent the remaining percentage.
 
+    In this study case, Almost 70% of total revenue is located in these 18 items out of total of 104 items. So we could pay attention to these items.
+
 1 Handanhal and Misra (2014). ABC Analysis for Inventory Management: Bridging the Gap between Research and Classroom.
